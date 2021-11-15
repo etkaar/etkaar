@@ -1,7 +1,13 @@
 ## Creative
 
+#### Big Projects
+
+- [The XLR Mute Box](https://github.com/etkaar/XRLMuteBox): A 3D printed XLR mute box with an illuminated front and button.
+
+#### Small Projects
+
 - [Candlelight](https://github.com/etkaar/CandleLight): Candlelight/flame effect using an ATtiny85.
-- [FLSUN Q5 LED Plate](https://github.com/etkaar/FLSUN-Q5): Attachable illumination plate which can hold three LEDs.
+- [Illumination Plate for FLSUN Q5](https://github.com/etkaar/FLSUN-Q5): Attachable illumination plate which can hold three LEDs.
 
 ## Software
 
