@@ -1,6 +1,6 @@
 ## 💬 Contact
 
-For any questions, you can create an issue [here](https://github.com/etkaar/etkaar/issues/new) in my [special repository](https://github.com/etkaar/etkaar).
+For any questions, you can create an issue [here](https://github.com/etkaar/etkaar/issues/new).
 
 🙊
 
