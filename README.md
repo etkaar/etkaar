@@ -24,7 +24,7 @@
 
 ## Linux
 
-- [Debian: nftables-managing-script](https://github.com/etkaar/nftables-managing-script) (Firewall)
+- [nftables: Firewall Managing Script](https://github.com/etkaar/nftables-managing-script) (Firewall)
 
 ## Various Help Articles
 
@@ -34,5 +34,5 @@
 
 ### English
 
-- [Create personal Key Pair for Public Key Authentication](https://github.com/etkaar/help/blob/main/PublicKeyAuthentication.md)
+- [Create Personal Key Pair for Public Key Authentication](https://github.com/etkaar/help/blob/main/PublicKeyAuthentication.md)
 - [Setup WinSCP](https://github.com/etkaar/help/blob/main/SetupWinSCP.md)
