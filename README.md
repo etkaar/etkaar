@@ -6,14 +6,11 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 ## ⌨️ Software
 
+- [Neutrino](https://github.com/etkaar/Neutrino) – Secure and event-driven low-level encrypted UDP protocol with focus on simplicity and high performance.
+
 #### Linux
 
-- [Neutrino](https://github.com/etkaar/Neutrino) – Secure and event-driven low-level encrypted UDP protocol with focus on simplicity and high performance.
 - [nftables-managing-script](https://github.com/etkaar/nftables-managing-script) – Lightweight managing script for a nftables based firewall.
-
-#### Windows
-
-- [Authenticator](https://github.com/etkaar/Authenticator) – Standalone authenticator executable (Windows) for internal purposes.
 
 ## 🔨 Creative
 
