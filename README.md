@@ -6,7 +6,7 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 ## ⌨️ Software
 
-- [Neutrino](https://github.com/etkaar/Neutrino) – Secure and event-driven low-level encrypted UDP protocol with focus on simplicity and high performance.
+- Coming Soon: [Neutrino](https://github.com/etkaar/Neutrino) – Secure and event-driven low-level encrypted UDP protocol with focus on simplicity and high performance.
 
 #### Linux
 
