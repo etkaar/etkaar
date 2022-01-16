@@ -10,7 +10,7 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 #### Linux
 
-- [nftables-managing-script](https://github.com/etkaar/nftables-managing-script) – Lightweight managing script for a nftables based firewall.
+- [nftm: Nftables Managing Script](https://github.com/etkaar/nftm) – Lightweight managing script for a nftables based firewall.
 
 ## 🔨 Creative
 
