@@ -33,7 +33,7 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 #### Websites
 
-- [https://pensink.org](https://www.pensink.org) | [github.io Archive](https://etkaar.github.io/archive/pensink.org/src/en/galerie) – A website about vintage fountain pens.
+- [https://pensink.org](https://www.pensink.org) ▪ [Archive](https://github.com/etkaar/etkaar.github.io/tree/main/archive/pensink.org) | [Live-Preview](https://etkaar.github.io/archive/pensink.org/src/en/mabie-todd-swan-1060) ▪ A website about vintage fountain pens.
 
   [<img src="https://user-images.githubusercontent.com/40885610/145686763-54f8f877-ee97-449b-902f-2a01c958dbc0.png" width="300">](https://www.pensink.org)
 
