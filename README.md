@@ -2,13 +2,6 @@
 
 For any questions, you can create an issue [here](https://github.com/etkaar/etkaar/issues/new).
 
-## ₿ Donations
-
-In case you have Bitcoin and don't need it, you can donate it to me:
-[1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2](https://www.blockchain.com/btc/address/1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2)
-
-🙊
-
 ## ⌨️ Software
 
 - Coming Soon: [Neutrino](https://github.com/etkaar/Neutrino) – Secure and event-driven low-level encrypted UDP protocol with focus on simplicity and high performance.
@@ -52,3 +45,11 @@ In case you have Bitcoin and don't need it, you can donate it to me:
 ### German
 
 - [SaltyChat: Ich werde nicht in den richtigen Raum verschoben](https://github.com/etkaar/help/blob/main/SaltyChatDE.md)
+
+## ₿ Donations
+
+In case you have Bitcoin and don't need it, you can donate it to me:
+
+[1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2](https://www.blockchain.com/btc/address/1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2)
+
+🙊
