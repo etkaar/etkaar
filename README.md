@@ -35,6 +35,14 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
   [<img src="https://user-images.githubusercontent.com/40885610/145686763-54f8f877-ee97-449b-902f-2a01c958dbc0.png" width="300">](https://www.pensink.org)
 
+## 🏚️ History: Waived Projects
+
+- [BFADMIN](https://github.com/etkaar/BFADMIN) (2011–2012) – Web administration service for Battlefield 3 servers.
+ 
+  [<img src="https://user-images.githubusercontent.com/40885610/152906682-99bbff62-86be-48af-902c-fe60ef86b385.png" width="300">](https://github.com/etkaar/BFADMIN)
+
+---
+
 ## ❓ Various Help Articles
 
 ### English
@@ -45,14 +53,6 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 ### German
 
 - [SaltyChat: Ich werde nicht in den richtigen Raum verschoben](https://github.com/etkaar/help/blob/main/SaltyChatDE.md)
-
-## 🏚️ History: Waived Projects
-
-- [BFADMIN](https://github.com/etkaar/BFADMIN) (2011–2012) – Web administration service for Battlefield 3 servers.
- 
-  [<img src="https://user-images.githubusercontent.com/40885610/152906682-99bbff62-86be-48af-902c-fe60ef86b385.png" width="300">](https://github.com/etkaar/BFADMIN)
-  
-
 
 ## ₿ Donations
 
