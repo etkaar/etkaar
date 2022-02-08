@@ -47,8 +47,6 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
  
   [<img src="https://user-images.githubusercontent.com/40885610/152906682-99bbff62-86be-48af-902c-fe60ef86b385.png" width="300">](https://github.com/etkaar/archive/tree/main/BFADMIN)
 
----
-
 ## ❓ Various Help Articles
 
 ### English
