@@ -43,9 +43,9 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 ## 🏚️ History: Waived Projects
 
-- [BFADMIN](https://github.com/etkaar/BFADMIN) (2011–2012) – Web administration service for Battlefield 3 servers.
+- [BFADMIN](https://github.com/etkaar/archive/tree/main/BFADMIN) (2011–2012) – Web administration service for Battlefield 3 servers.
  
-  [<img src="https://user-images.githubusercontent.com/40885610/152906682-99bbff62-86be-48af-902c-fe60ef86b385.png" width="300">](https://github.com/etkaar/BFADMIN)
+  [<img src="https://user-images.githubusercontent.com/40885610/152906682-99bbff62-86be-48af-902c-fe60ef86b385.png" width="300">](https://github.com/etkaar/archive/tree/main/BFADMIN)
 
 ---
 
