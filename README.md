@@ -2,9 +2,15 @@
 
 For any questions, you can create an issue [here](https://github.com/etkaar/etkaar/issues/new).
 
+## 🏠 Upcoming Projects (2022)
+
+- TGN is an upcoming service under development which is expected to turn into Closed Alpha by mid-2022.
+
+  <img src="https://user-images.githubusercontent.com/40885610/152909018-e2b8521c-71ee-49ff-a138-fe99d52a7f98.png" width="300">
+
 ## ⌨️ Software
 
-- Coming Soon: [Neutrino](https://github.com/etkaar/Neutrino) – Secure and event-driven low-level encrypted UDP protocol with focus on simplicity and high performance.
+- Under Development: [Neutrino](https://github.com/etkaar/Neutrino) – Secure and event-driven low-level encrypted UDP protocol with focus on simplicity and high performance.
 
 #### GNU/Linux
 
@@ -14,7 +20,7 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 #### Big Projects
 
-- Coming Soon: [The XLR Mute Box](https://github.com/etkaar/XRLMuteBox) – A 3D printed XLR mute box with an illuminated front and button.
+- Coming between 2022/2023: [The XLR Mute Box](https://github.com/etkaar/XRLMuteBox) – A 3D printed XLR mute box with an illuminated front and button.
 
   <img src="https://user-images.githubusercontent.com/40885610/141793683-0b01e464-6853-49d2-b352-b2d9b3b64beb.JPG" width="300">
   <!--<img src="https://user-images.githubusercontent.com/40885610/141793536-52e4b6b0-e5fc-47b2-93ac-ac41189b6144.jpg" width="300">-->
