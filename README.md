@@ -60,7 +60,7 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 ## ₿ Donations
 
-In case you have Bitcoin and don't need it, you can donate it to me:
+In case you have found old Bitcoins you don't need, you can donate it to me:
 
 [1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2](https://www.blockchain.com/btc/address/1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2)
 
