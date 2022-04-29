@@ -15,7 +15,7 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 #### GNU/Linux
 
 - [nftm](https://github.com/etkaar/nftm) – Lightweight managing script for a nftables based firewall.
-- [srcds](https://github.com/etkaar/srcds) – Managing script for Source Dedicated Servers (srcds), such as CS:GO.
+- [srcds](https://github.com/etkaar/srcds) – Managing script for Source Dedicated Servers (SRCDS), such as CS:GO or TF2.
 
 ## 🔨 Creative
 
