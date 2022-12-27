@@ -2,7 +2,7 @@
 
 For any questions, you can create an issue [here](https://github.com/etkaar/etkaar/issues/new).
 
-## 🏠 Upcoming Projects (2022/2023)
+## 🏠 Upcoming Projects (2023)
 
 - TGN is an upcoming service under development which is expected to turn into closed alpha by 2023.
 
