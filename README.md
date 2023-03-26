@@ -70,6 +70,16 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 <img src="https://user-images.githubusercontent.com/40885610/227752674-0de76b30-8db1-4df6-b537-87a41ee8d8c8.jpg" width="300">&nbsp;<img src="https://user-images.githubusercontent.com/40885610/227752678-697e8375-4361-419d-8997-11ad9e7963a7.jpg" width="300">
 
+### ✍️ Fictional Signatures
+
+<img src="https://user-images.githubusercontent.com/40885610/227753084-79c6eca7-23b8-4a40-b9d7-379e5baa1e85.jpg" width="200">&nbsp;
+<img src="https://user-images.githubusercontent.com/40885610/227753086-0619085f-d11c-4efb-9827-0ebe6693a5c3.jpg" width="200">&nbsp;
+<img src="https://user-images.githubusercontent.com/40885610/227753088-01828fa3-cd75-4648-b68d-2e919ef9f65f.jpg" width="200"><br>
+
+<img src="https://user-images.githubusercontent.com/40885610/227753125-dfb426af-2f46-42fa-bcd4-82c35a87b31e.jpg" width="200">&nbsp;
+<img src="https://user-images.githubusercontent.com/40885610/227753147-8ee38bb1-ea8a-4ce6-aab8-cf4e2391ae04.jpg" width="200">&nbsp;
+<img src="https://user-images.githubusercontent.com/40885610/227753150-ce6f52ee-fad7-470b-a036-413a127ab06c.jpg" width="200">
+
 ## ₿ Donations
 
 In case you have found old Bitcoins you don't need, you can donate it to me:
