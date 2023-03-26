@@ -66,7 +66,7 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 ## Miscellaneous
 
-### 🎲 Glowing Casino Dices (2023)
+### 🎲 Glowing Casino Dices
 
 <img src="https://user-images.githubusercontent.com/40885610/227752674-0de76b30-8db1-4df6-b537-87a41ee8d8c8.jpg" width="300">&nbsp;<img src="https://user-images.githubusercontent.com/40885610/227752678-697e8375-4361-419d-8997-11ad9e7963a7.jpg" width="300">
 
