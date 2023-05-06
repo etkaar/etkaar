@@ -32,9 +32,13 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 #### Small Projects
 
-- [Candlelight](https://github.com/etkaar/CandleLight) – Candlelight/flame effect using an ATtiny85.
+- [🕯 Candlelight](https://github.com/etkaar/CandleLight) – Candlelight/flame effect using an ATtiny85.
  
   <img src="https://user-images.githubusercontent.com/40885610/141792818-8703f7d4-e2ef-4772-93a8-222decf9cca6.jpg" width="300">
+  
+- [🎲 Glowing Casino Dices](https://github.com/etkaar/GlowingDices) – Glowing casino dices using an ATtiny85.
+ 
+  <img src="https://user-images.githubusercontent.com/40885610/227752674-0de76b30-8db1-4df6-b537-87a41ee8d8c8.jpg" width="300">&nbsp;<img src="https://user-images.githubusercontent.com/40885610/227752678-697e8375-4361-419d-8997-11ad9e7963a7.jpg" width="300">
 
 - [Illumination Plate for FLSUN Q5](https://github.com/etkaar/FLSUN-Q5): Attachable illumination plate which can hold three LEDs.
 
@@ -63,12 +67,6 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 ### German
 
 - [SaltyChat: Ich werde nicht in den richtigen Raum verschoben](https://github.com/etkaar/help/blob/main/SaltyChatDE.md)
-
-## Miscellaneous
-
-### 🎲 Glowing Casino Dices
-
-<img src="https://user-images.githubusercontent.com/40885610/227752674-0de76b30-8db1-4df6-b537-87a41ee8d8c8.jpg" width="300">&nbsp;<img src="https://user-images.githubusercontent.com/40885610/227752678-697e8375-4361-419d-8997-11ad9e7963a7.jpg" width="300">
 
 ## ₿ Donations
 
