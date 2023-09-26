@@ -17,10 +17,6 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 - [nftm](https://github.com/etkaar/nftm) – Lightweight managing script for a nftables based firewall.
 - [srcds](https://github.com/etkaar/srcds) – Managing script for Source Dedicated Servers (SRCDS), such as CS:GO or TF2.
 
-## ⚖️ Legal
-
-- [OSPAA](https://github.com/etkaar/OSPAA) – An amendment article for open-source licenses to hinder huge tech companies from using open-source software without compensating the author(s) at all.
-
 ## 🔨 Creative
 
 #### Big Projects
