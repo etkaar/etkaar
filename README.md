@@ -52,6 +52,10 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
  
   [<img src="https://user-images.githubusercontent.com/40885610/152906682-99bbff62-86be-48af-902c-fe60ef86b385.png" width="300">](https://github.com/etkaar/archive/tree/main/BFADMIN)
 
+- [The Server-With-a-PiKVM Project](https://github.com/etkaar/server-with-pikvm) (2023)
+
+-   [<img src="https://user-images.githubusercontent.com/40885610/225312911-7ad6c10d-3f13-4f2f-a919-8b22704e4267.jpg" width="300">](https://github.com/etkaar/server-with-pikvm)
+
 ## ❓ Various Help Articles
 
 ### English
