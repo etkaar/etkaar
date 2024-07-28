@@ -60,11 +60,3 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 ### German
 
 - [SaltyChat: Ich werde nicht in den richtigen Raum verschoben](https://github.com/etkaar/help/blob/main/SaltyChatDE.md)
-
-## ₿ Donations
-
-In case you have found old Bitcoins you don't need, you can donate them to me:
-
-[1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2](https://www.blockchain.com/btc/address/1KUs7ZdAsfoAKNCXGVzQPrcKEsHkeZWcj2)
-
-🙊
