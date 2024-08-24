@@ -51,12 +51,6 @@ For any questions, you can create an issue [here](https://github.com/etkaar/etka
 
 ## ❓ Various Help Articles
 
-### English
-
 - [POSIX/Shell: Some Helpful Tips](https://github.com/etkaar/help/blob/main/POSIXShell.md)
 - [Create Personal Key Pair for Public Key Authentication](https://github.com/etkaar/help/blob/main/PublicKeyAuthentication.md)
 - [Setup WinSCP](https://github.com/etkaar/help/blob/main/SetupWinSCP.md)
-
-### German
-
-- [SaltyChat: Ich werde nicht in den richtigen Raum verschoben](https://github.com/etkaar/help/blob/main/SaltyChatDE.md)
